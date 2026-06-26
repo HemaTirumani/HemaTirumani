@@ -10,17 +10,17 @@ Hi there 👋, I'm Hema Varshitha Tirumani
 
 🌱 Currently learning
 
-Spring Boot
-React.js
-Advanced Data Structures & Algorithms
-System Design
+Spring Boot,
+React.js,
+Advanced Data Structures & Algorithms,
+System Design,
 Backend Engineering
 
 🚀 Interested in building
 
-Scalable Web Applications
-AI/ML Solutions
-Backend APIs
+Scalable Web Applications,
+AI/ML Solutions,
+Backend APIs,
 Intelligent Automation Systems
 
 🎯 Career Goal
