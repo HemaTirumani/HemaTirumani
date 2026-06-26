@@ -2,8 +2,6 @@ Hi there 👋, I'm Hema Varshitha Tirumani
 
 <h3 align="center">Aspiring Software Engineer | Machine Learning Enthusiast | Full Stack Developer</h3>
 
-<p align="center"> <a href="https://github.com/HemaTirumani"> <img src="https://img.shields.io/github/followers/HemaTirumani?label=Followers&style=social"> </a> <a href="https://github.com/HemaTirumani"> <img src="https://img.shields.io/github/stars/HemaTirumani?affiliations=OWNER&style=social"> </a> </p>
-
 👩‍💻 About Me
 
 🎓 B.Tech Information Technology Student at Shri Vishnu Engineering College for Women (2022–2026)
