@@ -230,7 +230,7 @@ Cloud Computing
 🤝 Let's Connect
 📧 Email: hemavarshitha08@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/hema-varshitha-tirumani-2420ab259/
+💼 LinkedIn: https://linkedin.com/in/hema-varshitha-tirumani/
 
 🌐 GitHub: https://github.com/HemaTirumani
 
